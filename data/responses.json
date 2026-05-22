@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "timestamp": "2026-05-22T13:02:06.286Z",
+    "q1": "Menos de 500",
+    "q2": "Industria / Ingeniería",
+    "q3": "Talento / Desarrollo",
+    "q4": "1",
+    "q7": "Falta alineamiento con negocio",
+    "q10": "2",
+    "q11": "Falta herramientas para escalar",
+    "q14": "1",
+    "q15": "Baja calidad / fragmentación de datos",
+    "q16": "5",
+    "q18": "Vincular a desarrollo y formación",
+    "q19": "Mayor agilidad organizativa",
+    "q20": "5",
+    "q5a": "1",
+    "q5b": "1",
+    "q5c": "1",
+    "q5d": "1",
+    "q9a": "1",
+    "q9b": "1",
+    "q9c": "1",
+    "q9d": "1",
+    "q13a": "1",
+    "q13b": "1",
+    "q13c": "1",
+    "q13d": "1",
+    "q17a": "1",
+    "q17b": "1",
+    "q17c": "1",
+    "q17d": "1",
+    "q6": [
+      "Hard skills",
+      "Soft skills"
+    ],
+    "q8": [
+      "Evaluación del mánager",
+      "Sin proceso definido"
+    ],
+    "q12": [
+      "Desempeño / evaluación",
+      "Formación y desarrollo"
+    ],
+    "q21": [
+      "Diseño del Skills Framework",
+      "Herramientas People Analytics",
+      "Gestión del cambio"
+    ],
+    "q22": "nada"
+  }
+]
