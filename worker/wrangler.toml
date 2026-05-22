@@ -1,0 +1,11 @@
+name = "sbo-laboratorio-api"
+main = "src/index.js"
+compatibility_date = "2026-05-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://jmartinbeonit.github.io,http://127.0.0.1:8765,http://localhost:8765"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sbo-laboratorio"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
