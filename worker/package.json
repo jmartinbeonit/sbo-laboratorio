@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "wrangler dev --local --persist-to .wrangler/state",
+    "deploy": "wrangler deploy",
+    "d1:create": "wrangler d1 create sbo-laboratorio",
+    "d1:migrate:local": "wrangler d1 execute sbo-laboratorio --local --file=./schema.sql",
+    "d1:migrate:remote": "wrangler d1 execute sbo-laboratorio --remote --file=./schema.sql",
+    "d1:seed:remote": "node import-from-json.mjs > .seed.sql && wrangler d1 execute sbo-laboratorio --remote --file=./.seed.sql"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
